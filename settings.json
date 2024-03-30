@@ -1,0 +1,11 @@
+{
+    "syntax": {
+        "use-tabs": true,
+        "variables": {
+            "need-type": false
+        }
+    },
+    "built-ins": {
+
+    }
+}
